@@ -1,8 +1,8 @@
-import Work1 from "../../assets/avr.png";
-import Work2 from "../../assets/jointsnjams.png";
-import Work3 from "../../assets/imitari.png";
-import Work4 from "../../assets/net-working.png";
-import Work5 from "../../assets/profit-prophet.png";
+import Work1 from "../../assets/avrMock.jpg";
+import Work2 from "../../assets/jontsMock.jpg";
+import Work3 from "../../assets/imitariMock.jpg";
+import Work4 from "../../assets/networkMock.jpg";
+import Work5 from "../../assets/profitMock.jpg";
 
 export const projectsData = [
 	{
