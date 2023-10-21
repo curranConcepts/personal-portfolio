@@ -26,6 +26,14 @@ const Social = () => {
 			>
 				<i className="uil uil-twitter"></i>
 			</a>
+
+			<a
+				href="mailto:austin.curran@proton.me"
+				className="home__social-icon"
+				target="_blank"
+			>
+				<i className="uil uil-envelope"></i>
+			</a>
 		</div>
 	);
 };

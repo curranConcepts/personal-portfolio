@@ -37,7 +37,10 @@ const Footer = () => {
 					</a>
 				</div>
 
-				<span className="footer__copy">&#169;2022 Curran Concepts</span>
+				<span className="footer__copy">
+					<i className="uil uil-envelope"></i> Email:
+					austin.curran@proton.me
+				</span>
 			</div>
 		</footer>
 	);
