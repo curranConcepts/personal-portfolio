@@ -48,6 +48,26 @@ const Qualification = () => {
 								: "qualification__content"
 						}
 					>
+                        <div className="qualification__data">
+							<div>
+								<h3 className="qualification__title">
+									Web Develper
+								</h3>
+								<span className="qualification__subtitle">
+									Windfall Inc. - Missoula, Mt
+								</span>
+								<div className="qualification__calender">
+									<i className="uil uil-calendar-alt"></i>{" "}
+									2023 - Present
+								</div>
+							</div>
+
+							<div>
+								<span className="qualification__rounder"></span>
+								<span className="qualification__line"></span>
+							</div>
+						</div>
+
 						<div className="qualification__data">
 							<div>
 								<h3 className="qualification__title">
@@ -58,7 +78,7 @@ const Qualification = () => {
 								</span>
 								<div className="qualification__calender">
 									<i className="uil uil-calendar-alt"></i>{" "}
-									2022 - Present
+									2022 - 2023
 								</div>
 							</div>
 
