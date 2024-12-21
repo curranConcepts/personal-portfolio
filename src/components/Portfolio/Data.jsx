@@ -4,6 +4,7 @@ import Work3 from "../../assets/mmd.png";
 import Work4 from "../../assets/cyber.png";
 import Work5 from "../../assets/profit.png";
 import Work6 from "../../assets/imitari.png";
+import Work7 from "../../assets/gwo.png";
 
 export const projectsData = [
 	{
@@ -53,6 +54,14 @@ export const projectsData = [
 		link: "https://imitari.fly.dev/",
 		repo: "https://github.com/curranConcepts/Imitari",
 		category: "applications",
+	},
+	{
+		id: 7,
+		image: Work7,
+		title: "Montana's Great Wide Open",
+		link: "https://montanasgreatwideopen.com/",
+		repo: "#",
+		category: "websites",
 	},
 ];
 
