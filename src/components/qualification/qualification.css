@@ -17,6 +17,7 @@
 	margin: 0 var(--mb-1);
 	padding: 0 0.5em;
 	cursor: pointer;
+    transition: .2s linear;
 }
 
 .qualification__button:hover {
