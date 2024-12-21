@@ -76,7 +76,7 @@ export const projectsData = [
 	{
 		id: 9,
 		image: Work9,
-		title: "Western Montana Conservation Commission",
+		title: "WMCC",
 		link: "https://westernmtwaters.com/",
 		repo: "#",
 		category: "websites",
