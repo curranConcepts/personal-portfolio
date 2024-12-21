@@ -5,6 +5,8 @@ import Work4 from "../../assets/cyber.png";
 import Work5 from "../../assets/profit.png";
 import Work6 from "../../assets/imitari.png";
 import Work7 from "../../assets/gwo.png";
+import Work8 from "../../assets/commerce.png";
+import Work9 from "../../assets/wmcc.png";
 
 export const projectsData = [
 	{
@@ -60,6 +62,22 @@ export const projectsData = [
 		image: Work7,
 		title: "Montana's Great Wide Open",
 		link: "https://montanasgreatwideopen.com/",
+		repo: "#",
+		category: "websites",
+	},
+	{
+		id: 8,
+		image: Work8,
+		title: "Montana State Commerce",
+		link: "https://commerce.mt.gov/",
+		repo: "#",
+		category: "websites",
+	},
+	{
+		id: 9,
+		image: Work9,
+		title: "Western Montana Conservation Commission",
+		link: "https://westernmtwaters.com/",
 		repo: "#",
 		category: "websites",
 	},
