@@ -1,28 +1,45 @@
-import Work1 from "../../assets/avrMock.jpg";
-import Work2 from "../../assets/jontsMock.jpg";
-import Work3 from "../../assets/imitariMock.jpg";
-import Work4 from "../../assets/networkMock.jpg";
-import Work5 from "../../assets/profitMock.jpg";
+import Work1 from "../../assets/glacier.png";
+import Work2 from "../../assets/yellowstone.png";
+import Work3 from "../../assets/mmd.png";
+import Work4 from "../../assets/cyber.png";
+import Work5 from "../../assets/profit.png";
+import Work6 from "../../assets/imitari.png";
 
 export const projectsData = [
 	{
 		id: 1,
 		image: Work1,
-		title: "Alternative Vehicle Repair",
-		link: "https://avrmissoula.netlify.app/",
-		repo: "https://github.com/curranConcepts/alternative-vehicle-repair",
+		title: "Western Montana's Glacier Country",
+		link: "https://glaciermt.com/",
+		repo: "#",
 		category: "websites",
 	},
 	{
 		id: 2,
 		image: Work2,
-		title: "Joints & Jams",
-		link: "https://jointsnjamsmt.netlify.app/",
-		repo: "https://github.com/curranConcepts/joints-and-jams",
+		title: "Montana's Yellowstone Country",
+		link: "https://visityellowstonecountry.com/",
+		repo: "#",
 		category: "websites",
 	},
 	{
 		id: 3,
+		image: Work3,
+		title: "McFarland Molloy & Deurk",
+		link: "https://missoulalawyers.com",
+		repo: "#",
+		category: "websites",
+	},
+	{
+		id: 4,
+		image: Work4,
+		title: "CyberMontana",
+		link: "https://cybermontana.org/",
+		repo: "#",
+		category: "websites",
+	},
+	{
+		id: 5,
 		image: Work5,
 		title: "Profit Prophet",
 		link: "https://profit-prophet.fly.dev/",
@@ -30,19 +47,11 @@ export const projectsData = [
 		category: "applications",
 	},
 	{
-		id: 4,
-		image: Work3,
+		id: 6,
+		image: Work6,
 		title: "Imitari",
 		link: "https://imitari.fly.dev/",
 		repo: "https://github.com/curranConcepts/Imitari",
-		category: "applications",
-	},
-	{
-		id: 5,
-		image: Work4,
-		title: "Net-Working",
-		link: "#portfolio",
-		repo: "https://github.com/curranConcepts/net-working",
 		category: "applications",
 	},
 ];
