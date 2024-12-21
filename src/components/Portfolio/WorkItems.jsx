@@ -7,11 +7,11 @@ const WorkItems = ({ item }) => {
 			<h3 className="work__title">{item.title}</h3>
 			<div className="work__context">
 				<a href={item.link} className="work__button">
-					Live Demo
+					Visit Site
 					<i className="bx bx-right-arrow-alt work__button-icon"></i>
 				</a>
 				<a href={item.repo} className="work__button">
-					Repo
+					View Repo
 					<i className="bx bx-right-arrow-alt work__button-icon"></i>
 				</a>
 			</div>
